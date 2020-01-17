@@ -1,2 +1,2 @@
-# PLC-Introduction
-Simple I/O Program
+# Introduction-to-PLC
+Training Programme
