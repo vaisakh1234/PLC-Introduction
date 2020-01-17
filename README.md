@@ -1,2 +1,2 @@
 # Introduction-to-PLC
-Training Programm
+Training Program
